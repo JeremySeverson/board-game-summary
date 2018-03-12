@@ -50,7 +50,7 @@ End Game Conditions
   1. A player places their las camel
   2. No more legal Meeple moves
 
-## Victory Points
+Victory Points
   1. 1 VP for each Gold
   2. 1 VP for each Yellow Vizzer
   3. 10 VP for each oppoent with less Yellow Vizzer
