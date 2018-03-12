@@ -46,18 +46,18 @@
 ## GAME END
 
 End Game Conditions
-  1. A player places their last camel
-  2. No more legal Meeple moves
+    1. A player places their last camel
+    2. No more legal Meeple moves
 
 End Game Scoring
-  * 1 VP for each Gold
-  * 1 VP for each Yellow Vizzer
-  * 10 VP for each oppoent with less Yellow Vizzer
-  * 2 VP for each White Elder
-  * Sum of VP on your Djinns
-  * Sum of VP on your Claimed Tiles
-  * 3 VP for each Palm Tree on your Claimed Tiles
-  * 5 VP for each Palace on youy Claimed Tiles
-  * Sum of VP for your unique sets of resources
-      * (1-3-7-13-21-30-40-50-60)
+    * 1 VP for each Gold
+    * 1 VP for each Yellow Vizzer
+    * 10 VP for each oppoent with less Yellow Vizzer
+    * 2 VP for each White Elder
+    * Sum of VP on your Djinns
+    * Sum of VP on your Claimed Tiles
+    * 3 VP for each Palm Tree on your Claimed Tiles
+    * 5 VP for each Palace on youy Claimed Tiles
+    * Sum of VP for your unique sets of resources
+        * (1-3-7-13-21-30-40-50-60)
 
