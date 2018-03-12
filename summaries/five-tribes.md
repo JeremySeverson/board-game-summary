@@ -1,5 +1,5 @@
 
-##SETUP##
+##SETUP
 
 1. Give each player Camels and Turn Marker of same color
     * 1-2 players: 8 Camels & 1 Turn Marker
@@ -11,7 +11,7 @@
 6. Shuffle Resource cards and draw 9 faceup in a row next to Resource draw pile
 7. Shuffle Djinn cards and draw 3 faceup and place next to Djinn draw pile
 
-##Game Turn##
+##Game Turn
 
 1. Bid for Turn Order
 2. Players Actions
@@ -44,10 +44,20 @@
 3. Clean Up
     * Replenish Djinns & Resource Row
 
-##GAME END##
+##GAME END
 
 End Game Conditions
   1. A player places their las camel
   2. No more legal Meeple moves
 
+##Victory Points
+  1. 1 VP for each Gold
+  2. 1 VP for each Yellow Vizzer
+  3. 10 VP for each oppoent with less Yellow Vizzer
+  4. 2 VP for each White Elder
+  5. Sum of VP on your Djinns
+  6. Sum of VP on your Claimed Tiles
+  7. 3 VP for each Palm Tree on your Claimed Tiles
+  8. 5 VP for each Palace on youy Claimed Tiles
+  9. Sum of VP for your unique sets of resources
 
