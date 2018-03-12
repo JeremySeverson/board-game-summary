@@ -5,8 +5,8 @@
     * 1-2 players: 8 Camels & 1 Turn Marker
     * 3-4 players: 12 Blue/Pink Camels & 2 Turn Markers
 2. Give each player 50 Gold Coins (9x 5 & 5x 1)
-3. Shuffle 30 tiles and place randomly to make 5 x 6 grid
-4. Mix all 90 meeples in bag, randomly draw 3 from the bag for each tile
+3. Shuffle tiles and place randomly to make 5 x 6 grid
+4. Mix all meeples in bag, randomly draw 3 from the bag and place on each tile
 5. Randomly place Turn Markers on the Bid Order Track
 6. Shuffle Resource cards and draw 9 faceup in a row next to Resource draw pile
 7. Shuffle Djinn cards and draw 3 faceup and place next to Djinn draw pile
@@ -25,13 +25,12 @@
     4. Tribes Action
         * Yellow Viziers: Place in front of you, worth VPs at Game End
         * White Elders: Place in front of you, worth VPS at Game End or buy/invoke Djinns
-        * Green Merchants: Put in bag and take the resources from front of resource row for each one
+        * Green Merchants: Put in bag and take the resources from front of resource row for each merchant
         * Blue Builder: Put in bag, Gain gold
             * (number of surrounding/current blue tiles) x (number of builders + discarded slave/fakir cards)
         * Red Assassins: Put in bag and kill one meeple
-            * (number of Assasins + discarded slave/fakir cards) tiles away equal to the number of assassins
+            * (number of Assasins + discarded slave/fakir cards) tiles away
             * Or 1 Yellow or 1 White meeple in front of a player
-            * Discard slaves/fakirs to increase number of spaces, add 1 for each discarded
             * If you assassinate the last meeple on a space you may claim it if not already claimed
     5. Tile Actions
         * Oasis: Place palm tree on tile (Mandatory)
