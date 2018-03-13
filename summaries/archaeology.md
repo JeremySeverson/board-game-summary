@@ -31,7 +31,7 @@ Ages: 10+
         2. Steal card from another players hand
     * Sandstorm Card:
         1. Discard faceup
-        2. Discard Tent card or Discard half your cards (rounded down) to the Marketplace
+        2. Discard Tent card or Discard half your cards (rounded down) to the Marketplace faceup
         3. Dig for Treasure again
 2. Other Actions
     * Trade at the Marketplace
