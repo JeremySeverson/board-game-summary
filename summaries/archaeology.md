@@ -2,7 +2,7 @@
 
 Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 
-[GAME SETUP](#game-setup)  |  [GAME TURN](#game-turn)  |  [GAME END](#game-end)  |  [THE MONUMENT TILES](#the-monument-tiles)  |  [VARIANTS](#variants)
+[Game Setup](#game-setup)  |  [Game Turn](#game-turn)  |  [Game End](#game-end)  |  [The Monument Tiles](#the-monument-tiles)  |  [Varieants](#variants)
 
 
 ## <a id="game-setup"></a>GAME SETUP
@@ -12,7 +12,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 3. Shuffle rest of cards to form Treasure deck
 4. Give each player 4 Treasure cards and 1 Tent card
 5. Deal 5 cards faceup to form the Marketplace
-6. Randomly select a Monument Tile and setup (see [THE MONUMENT TILES](#the-monument-tiles))
+6. Randomly select a Monument Tile and setup (see [The Monument Tiles](#the-monument-tiles))
 7. Shuffle Thief, Sandstorm and Map cards into Treasure deck to form the Dig Site deck (see table below)
 
 | Players | Thiefs | Sandstorms | Broken Tablets | Broken Pendants |
@@ -42,7 +42,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
       * Trade cards from your hand with the Marketplace
       * Total value you get has to be equal or less to what you gave
   * Explore a Monument (only once per turn)
-      * Discard a number of map cards to claim a Monuments treasure (see [THE MONUMENT TILES](#the-monument-tiles))
+      * Discard a number of map cards to claim a Monuments treasure (see [The Monument Tiles](#the-monument-tiles))
   * Sell to the Museum
       * Sell 1 or more Treasure cards of the same type
       * Must be placed in new pile, can't add to and existing pile

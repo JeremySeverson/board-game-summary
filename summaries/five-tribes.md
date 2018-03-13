@@ -2,7 +2,7 @@
 
 Players: 2-4  |  Play Time: 40-80 min  |  Ages: 13+
 
-[GAME SETUP](#game-setup)  |  [GAME TURN](#game-turn)  |  [GAME END](#game-end)
+[Game Setup](#game-setup)  |  [Game Turn](#game-turn)  |  [Game End](#game-end)
 
 ## <a id="game-setup"></a>GAME SETUP
 
@@ -33,7 +33,7 @@ Players: 2-4  |  Play Time: 40-80 min  |  Ages: 13+
       * Green Merchants: Put in bag and take the resources from front of resource row for each merchant
       * Blue Builder: Put in bag, Gain gold
           * (number of surrounding/current blue tiles) x (number of builders + discarded slave/fakir cards)
-      * Red Assassins: Put in bag and kill one meeple
+      * Red Assassins: Put in bag, kill a meeple
           * (number of Assasins + discarded slave/fakir cards) tiles away
           * Or 1 Yellow or 1 White meeple in front of a player
           * If you assassinate the last meeple on a space you may claim it if not already claimed
