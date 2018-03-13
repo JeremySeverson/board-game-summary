@@ -70,24 +70,24 @@ End Game Scoring
  * **Setup:** Make three facedown Treasure piles (2, 5, 8)  
  * **Explore:** Discard 1, 2 or 3 Map cards to take that chambers Treasure pile
 
-**Temple**
+#### Temple
  * **Setup:** Make three facedown Treasure piles (5, 5, 5)  
  * **Explore:** Discard 2 Map cards to take Treasure pile from any chamber  
  * **During Play:** When a player sells to the Museum they may look at a face down Treasure pile
 
-### Tomb    
+#### Tomb    
  * **Setup:** Make two facedown Treasure piles (7, 8)  
  * **Explore:** Discard 1 Map card to look at a Treasure pile and keep 2 from it
 
-### Mine    
+#### Mine    
  * **Setup:** Make 1 facedown Treasure pile (15)  
  * **Explore:** Discard 1 Map card, shuffle Treasure pile, reveal cards from top faceup until you decide to stop and keep all reavealed treasure, if revealed treasure is greater than 5 then return to treasure pile and get nothing
 
-### Sphinx    
+#### Sphinx    
  * **Setup:** Make 1 facedown Treasure pile (15)  
  * **Explore:** Discard 1 Map card, shuffle Treasure pile, name 2 different Treasure types, reveal top 5 cards faceup and keep any that match the named Treasure types
 
-### Buried Ruins    
+#### Buried Ruins    
  * **Setup:** Make three faceup Treasure piles (1, 1, 1) and 1 facedown Treasure pile (12)  
  * **Explore:** Discard 1 Map card to take all cards from a chamber  
  * **During Play:** When a sandstorm is revealed, add 1 faceup treasure to all 3 chambers from the facedown Treasure pile
@@ -95,13 +95,13 @@ End Game Scoring
 
 ## <a id="variants"></a>Variants
 
-### Long Expedition (2 to 3 Players)  
+#### Long Expedition (2 to 3 Players)  
   * Add Broken Tablet, Broken Pendant and 1 extra Thief to the deck
 
-### Fierce Weather
+#### Fierce Weather
   * Use all 6 Sandstorms no matter the player count
   * Tents can be used twice
 
-### Beginners Luck
+#### Beginners Luck
   * The player with the lowest total vaule of starting 4 treasures in hand goes first
 
