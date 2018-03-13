@@ -40,7 +40,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
       * Discard faceup
       * Each player discards a tent or half their hand rounded down
       * Cards discarded are placed faceup in the Marketplace
-      * Player that revealed Sandstorm starts over and Digs for Treasure again
+      * Dig for Treasure again
 
 #### 2) Other Actions
   * Trade at the Marketplace
