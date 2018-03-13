@@ -59,7 +59,7 @@ End Game Scoring
   * Tie breaker is who sold the least amount of cards to the Museum
 
 
-## The Monument Tiles <a id="the-monument-tiles"></a>
+## <a id="the-monument-tiles"></a> The Monument Tiles
 
 ### Great Pyramid    
 **Setup:** Make three facedown Treasure piles (2,5,8)  
