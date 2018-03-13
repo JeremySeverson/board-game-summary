@@ -51,10 +51,10 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 
 ## <a id="game-end"></a>Game End
 
-End Game Condition
+#### End Game Condition
   * When each player has no cards left in hand
 
-End Game Scoring
+#### End Game Scoring
   * Each player adds up the total of all sets they sold to the Museum
   * Highest total sold wins
   * Tie breaker is who sold the least amount of cards to the Museum
