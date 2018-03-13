@@ -23,7 +23,7 @@ Ages: 10+
 
 ## Game Turn
 
-1. Dig for Treasure - Draw top card of Dig Site deck
+1. Dig for Treasure - Draw top card of Dig Site deck  
     **Treasure Card:** 
         1. Add to your hand
     **Thief Card:** 
