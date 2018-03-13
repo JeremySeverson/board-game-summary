@@ -31,10 +31,13 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 ## <a id="game-turn"></a>Game Turn
 
 #### 1) Dig for Treasure - Draw top card of Dig Site deck
-  * Treasure Card: Add to your hand
-  * Thief Card: Discard faceup
+  * Treasure Card: 
+      * Add to your hand
+  * Thief Card: 
+      * Discard faceup
       * Steal card from another players hand
-  * Sandstorm Card: Discard faceup
+  * Sandstorm Card: 
+      * Discard faceup
       * Each player discards a tent or half their hand rounded down
       * Cards discarded are placed faceup in the Marketplace
       * Player that revealed Sandstorm starts over and Digs for Treasure again
