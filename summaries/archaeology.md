@@ -24,12 +24,12 @@ Ages: 10+
 ## Game Turn
 
 1. Dig for Treasure - Draw top card of Dig Site deck  
-**Treasure Card:** 
+**Treasure Card:**  
   1. Add to your hand
-**Thief Card:** 
+**Thief Card:**  
   1. Discard faceup
   2. Steal card from another players hand
-**Sandstorm Card:**
+**Sandstorm Card:**  
   1. Discard faceup
   2. Discard Tent card or Discard half your cards (rounded down) to the Marketplace
   3. Dig for Treasure again
