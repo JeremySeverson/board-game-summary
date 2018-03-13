@@ -1,7 +1,9 @@
 # Five Tribes: The Djinns of Naqala
 
 Players: 2-4
+
 Play Time: 40-80 min
+
 Ages: 13+
 
 ## SETUP
