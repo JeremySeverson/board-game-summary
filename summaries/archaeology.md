@@ -15,12 +15,12 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 6. Randomly select a Monument Tile and setup (see [The Monument Tiles](#the-monument-tiles))
 7. Shuffle Thief, Sandstorm and Map cards into Treasure deck to form the Dig Site deck (see table below)
 
-| Players | Thiefs | Sandstorms | Broken Tablet | Broken Pendant |
-| ------- | ------ | ---------- | ------------- | -------------- |
-| 2       | 4      | 6          | Remove        | Remove         |
-| 3       | 6      | 5          | Remove        | Remove         |
-| 4       | 8      | 4          | Add           | Remove         |
-| 5       | 10     | 4          | Add           | Add            |
+| Players | Thiefs | Sandstorms | Broken Tablets | Broken Pendants |
+| ------- | ------ | ---------- | -------------- | --------------- |
+| 2       | 4      | 6          | Remove         | Remove          |
+| 3       | 6      | 5          | Remove         | Remove          |
+| 4       | 8      | 4          | Add            | Remove          |
+| 5       | 10     | 4          | Add            | Add             |
 
 
 ## <a id="game-turn"></a>Game Turn
@@ -55,7 +55,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
   * When each player has no cards left in hand
 
 #### End Game Scoring
-  * Each player adds up the total of all sets they sold to the Museum
+  * Each player adds up the total of each individual set they sold to the Museum
   * Highest total sold wins
   * Tie breaker is who sold the least amount of cards to the Museum
 
