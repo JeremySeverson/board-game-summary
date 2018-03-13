@@ -58,10 +58,11 @@ End Game Scoring
 
 ## The Monument Tiles <a id="the-monument-tiles"></a>
 
-### Great Pyramid  
-**Setup:** Make three facedown treasure piles (2,5,8)  
-**Explore:** Discard 1, 2 or 3 map cards to take that chambers Treasure cards
+### Great Pyramid    
+**Setup:** Make three facedown Treasure piles (2,5,8)  
+**Explore:** Discard 1, 2 or 3 Map cards to take that chambers Treasure pile
 
-### Great Pyramid  
-**Setup:** Make three facedown treasure piles (2,5,8)  
-**Explore:** Discard 1, 2 or 3 map cards to take that chambers Treasure cards
+### Temple    
+**Setup:** Make three facedown Treasure piles (5,5,5)  
+**Explore:** Discard 2 map cards to take Treasure pile from any chamber  
+**During Play:** 
