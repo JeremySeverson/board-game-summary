@@ -1,8 +1,6 @@
 # Archaeology: The New Expedition
 
-Players: 2-5  
-Play Time: 20 min  
-Ages: 10+
+Players: 2-5 | Play Time: 20 min | Ages: 10+
 
 ## Table of Contents
  * [Game Setup](#game-setup)
