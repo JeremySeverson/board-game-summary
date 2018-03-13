@@ -2,17 +2,17 @@
 
 Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 
-[Game Setup](#game-setup)  |  [Game Turn](#game-turn)  |  [Game End](#game-end)  |  [The Monument Tiles](#the-monument-tiles)  |  [Variants](#variants)
+[GAME SETUP](#game-setup)  |  [GAME TURN](#game-turn)  |  [GAME END](#game-end)  |  [THE MONUMENT TILES](#the-monument-tiles)  |  [VARIANTS](#variants)
 
 
-## <a id="game-setup"></a>Game Setup
+## <a id="game-setup"></a>GAME SETUP
 
 1. Set aside Map, Thief, Sandstorm and Tent cards
 2. Remove Broken Tablet/Broken Pendant from game (see table below)
 3. Shuffle rest of cards to form Treasure deck
 4. Give each player 4 Treasure cards and 1 Tent card
 5. Deal 5 cards faceup to form the Marketplace
-6. Randomly select a Monument Tile and setup (see [The Monument Tiles](#the-monument-tiles))
+6. Randomly select a Monument Tile and setup (see [THE MONUMENT TILES](#the-monument-tiles))
 7. Shuffle Thief, Sandstorm and Map cards into Treasure deck to form the Dig Site deck (see table below)
 
 | Players | Thiefs | Sandstorms | Broken Tablets | Broken Pendants |
@@ -23,7 +23,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 | 5       | 10     | 4          | Add            | Add             |
 
 
-## <a id="game-turn"></a>Game Turn
+## <a id="game-turn"></a>GAME TURN
 
 #### 1) Dig for Treasure - Draw top card of Dig Site deck
   * Treasure Card: 
@@ -42,14 +42,14 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
       * Trade cards from your hand with the Marketplace
       * Total value you get has to be equal or less to what you gave
   * Explore a Monument (only once per turn)
-      * Discard a number of map cards to claim a Monuments treasure (see [The Monument Tiles](#the-monument-tiles))
+      * Discard a number of map cards to claim a Monuments treasure (see [THE MONUMENT TILES](#the-monument-tiles))
   * Sell to the Museum
       * Sell 1 or more Treasure cards of the same type
       * Must be placed in new pile, can't add to and existing pile
       * Can sell multiple sets per turn
 
 
-## <a id="game-end"></a>Game End
+## <a id="game-end"></a>GAME END
 
 #### End Game Condition
   * When each player has no cards left in hand
@@ -60,7 +60,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
   * Tie breaker is who sold the least amount of cards to the Museum
 
 
-## <a id="the-monument-tiles"></a> The Monument Tiles
+## <a id="the-monument-tiles"></a>THE MONUMENT TILES
 
 #### Great Pyramid    
  * **Setup:** Make three facedown Treasure piles (2, 5, 8)  
@@ -89,7 +89,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
  * **During Play:** When a sandstorm is revealed, add 1 faceup treasure to all 3 chambers from the facedown Treasure pile
 
 
-## <a id="variants"></a>Variants
+## <a id="variants"></a>VARIANTS
 
 #### Long Expedition (2 to 3 Players)  
   * Add Broken Tablet, Broken Pendant and 1 extra Thief to the deck
