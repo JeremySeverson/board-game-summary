@@ -42,7 +42,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
       * Trade cards from your hand with the Marketplace
       * Total value you get has to be equal or less to what you gave
   * Explore a Monument (only once per turn)
-      * Discard a number of map cards to claim a Monuments treasure
+      * Discard a number of map cards to claim a Monuments treasure (see [The Monument Tiles](#the-monument-tiles))
   * Sell to the Museum
       * Sell 1 or more Treasure cards of the same type
       * Must be placed in new pile, can't add to and existing pile
