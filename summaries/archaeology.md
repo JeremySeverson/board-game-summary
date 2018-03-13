@@ -1,6 +1,6 @@
 # Archaeology: The New Expedition
 
-Players: 2-5 | Play Time: 20 min | Ages: 10+
+Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 
 ## Table of Contents
  * [Game Setup](#game-setup)
@@ -17,7 +17,7 @@ Players: 2-5 | Play Time: 20 min | Ages: 10+
 3. Shuffle rest of cards to form Treasure deck
 4. Give each player 4 Treasure cards and 1 Tent card
 5. Deal 5 cards faceup to form the Marketplace
-6. Randomly select a Monument tile and setup with a number of Treasure cards (see [The Monument Tiles](#the-monument-tiles))
+6. Randomly select a Monument Tile and setup (see [The Monument Tiles](#the-monument-tiles))
 7. Shuffle Thief, Sandstorm and Map cards into Treasure deck to form the Dig Site deck (see table below)
 
 | Players | Thiefs | Sandstorms | Broken Tablet | Broken Pendant |
@@ -67,16 +67,16 @@ End Game Scoring
 ## <a id="the-monument-tiles"></a> The Monument Tiles
 
 ### Great Pyramid    
-**Setup:** Make three facedown Treasure piles (2,5,8)  
-**Explore:** Discard 1, 2 or 3 Map cards to take that chambers Treasure pile
+ * **Setup:** Make three facedown Treasure piles (2, 5, 8)  
+ * **Explore:** Discard 1, 2 or 3 Map cards to take that chambers Treasure pile
 
 ### Temple    
-**Setup:** Make three facedown Treasure piles (5,5,5)  
+**Setup:** Make three facedown Treasure piles (5, 5, 5)  
 **Explore:** Discard 2 Map cards to take Treasure pile from any chamber  
 **During Play:** When a player sells to the Museum they may look at a face down Treasure pile
 
 ### Tomb    
-**Setup:** Make two facedown Treasure piles (7,8)  
+**Setup:** Make two facedown Treasure piles (7, 8)  
 **Explore:** Discard 1 Map card to look at a Treasure pile and keep 2 from it
 
 ### Mine    
@@ -88,8 +88,8 @@ End Game Scoring
 **Explore:** Discard 1 Map card, shuffle Treasure pile, name 2 different Treasure types, reveal top 5 cards faceup and keep any that match the named Treasure types
 
 ### Buried Ruins    
-**Setup:** Make three faceup Treasure piles (1,1,1) and 1 facedown Treasure pile (12) 
-**Explore:** Discard 1 Map card to take all cards from a chamber
+**Setup:** Make three faceup Treasure piles (1, 1, 1) and 1 facedown Treasure pile (12)  
+**Explore:** Discard 1 Map card to take all cards from a chamber  
 **During Play:** When a sandstorm is revealed, add 1 faceup treasure to all 3 chambers from the facedown Treasure pile
 
 
