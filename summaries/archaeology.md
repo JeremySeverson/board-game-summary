@@ -14,10 +14,12 @@ Ages: 10+
 4. Give each player a tent card
 5. Randomly select a Monument tile and setup with a number of Treasure cards
 6. Shuffle Thief and Sandstorm cards into Treasure deck
-    | Players | Thiefs | Sandstorms |
-    | ------- | ------ | ---------- |
-    | 2       | 4      | 6          |
-    | 3       | 6      | 5          |
-    | 4       | 8      | 4          |
-    | 5       | 10     | 4          |
+
+| Players | Thiefs | Sandstorms |
+| ------- | ------ | ---------- |
+| 2       | 4      | 6          |
+| 3       | 6      | 5          |
+| 4       | 8      | 4          |
+| 5       | 10     | 4          |
+
 7. 
