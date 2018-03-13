@@ -11,7 +11,7 @@ Ages: 10+
 3. Shuffle rest of cards to form Treasure deck
 4. Give each player 4 Treasure cards and 1 Tent card
 5. Deal 5 cards faceup to form the Marketplace
-6. Randomly select a Monument tile and setup with a number of Treasure cards
+6. Randomly select a Monument tile and setup with a number of Treasure cards (see [The Monument Tiles](#the-monument-tiles))
 7. Shuffle Thief, Sandstorm and Map cards into Treasure deck to form the Dig Site deck (see table below)
 
 | Players | Thiefs | Sandstorms | Broken Tablet | Broken Pendant |
@@ -52,4 +52,16 @@ End Game Condition
   * When each player has no cards left in hand
 
 End Game Scoring
-  * 
+  * Each player adds up the total of all sets they sold to the Museum
+  * Highest total sold wins
+  * Tie breaker is who sold the least amount of cards to the Museum
+
+## The Monument Tiles <a id="the-monument-tiles"></a>
+
+### Great Pyramid  
+**Setup:** Make three facedown treasure piles (2,5,8)  
+**Explore:** Discard 1, 2 or 3 map cards to take that chambers Treasure cards
+
+### Great Pyramid  
+**Setup:** Make three facedown treasure piles (2,5,8)  
+**Explore:** Discard 1, 2 or 3 map cards to take that chambers Treasure cards
