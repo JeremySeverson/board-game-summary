@@ -4,8 +4,14 @@ Players: 2-5
 Play Time: 20 min  
 Ages: 10+
 
+[Game Setup](#game-setup)
+[Game Turn](#game-turn)
+[Game End](#game-end)
+[The Monument Tiles](#the-monument-tiles)
+[Variants](#variants)
 
-## Game Setup
+
+## <a id="game-setup"></a>Game Setup
 
 1. Set aside Map, Thief, Sandstorm and Tent cards
 2. Remove Broken Tablet/Broken Pendant from game (see table below)
@@ -23,7 +29,7 @@ Ages: 10+
 | 5       | 10     | 4          | Add           | Add            |
 
 
-## Game Turn
+## <a id="game-turn"></a>Game Turn
 
 1. Dig for Treasure - Draw top card of Dig Site deck
     * Treasure Card: 
@@ -48,7 +54,7 @@ Ages: 10+
     * Play passes to the next person in clockwise order
 
 
-## Game End
+## <a id="game-end"></a>Game End
 
 End Game Condition
   * When each player has no cards left in hand
@@ -88,7 +94,7 @@ End Game Scoring
 **During Play:** When a sandstorm is revealed, add 1 faceup treasure to all 3 chambers from the facedown Treasure pile
 
 
-## Variants
+## <a id="variants"></a>Variants
 
 ### Long Expedition (2 to 3 Players)  
   * Add Broken Tablet, Broken Pendant and 1 extra Thief to the deck
