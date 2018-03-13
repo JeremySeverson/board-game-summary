@@ -30,7 +30,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 
 ## <a id="game-turn"></a>Game Turn
 
-#### Dig for Treasure - Draw top card of Dig Site deck
+#### 1) Dig for Treasure - Draw top card of Dig Site deck
   * Treasure Card: 
       1. Add to your hand
   * Thief Card: 
@@ -41,7 +41,7 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
       2. Discard Tent card or Discard half your cards (rounded down) to the Marketplace faceup
       3. Dig for Treasure again
 
-#### Other Actions
+#### 2) Other Actions
   * Trade at the Marketplace
       * Trade cards from your hand with the market
       * Total value you get has to be equal or less to what you gave
@@ -50,8 +50,8 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
   * Sell to the Museum
       * Sell 1 or more Treasure cards of the same type
       * Must be placed in new pile, can't add to and existing pile
-      
-#### End of Turn
+
+#### 3) End of Turn
   * Play passes to the next person in clockwise order
 
 
