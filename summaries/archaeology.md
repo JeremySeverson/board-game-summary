@@ -31,28 +31,24 @@ Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 ## <a id="game-turn"></a>Game Turn
 
 #### 1) Dig for Treasure - Draw top card of Dig Site deck
-  * Treasure Card: 
-      1. Add to your hand
-  * Thief Card: 
-      1. Discard faceup
-      2. Steal card from another players hand
-  * Sandstorm Card:
-      1. Discard faceup
-      2. Discard Tent card or Discard half your cards (rounded down) to the Marketplace faceup
-      3. Dig for Treasure again
+  * Treasure Card: Add to your hand
+  * Thief Card: Discard faceup
+      * Steal card from another players hand
+  * Sandstorm Card: Discard faceup
+      * Each player discards a tent or half their hand rounded down
+      * Cards discarded are placed faceup in the Marketplace
+      * Player that revealed Sandstorm starts over and Digs for Treasure again
 
 #### 2) Other Actions
   * Trade at the Marketplace
-      * Trade cards from your hand with the market
+      * Trade cards from your hand with the Marketplace
       * Total value you get has to be equal or less to what you gave
   * Explore a Monument (only once per turn)
-      * Discard a number of map cards to claim a Monumnets treasure
+      * Discard a number of map cards to claim a Monuments treasure
   * Sell to the Museum
       * Sell 1 or more Treasure cards of the same type
       * Must be placed in new pile, can't add to and existing pile
-
-#### 3) End of Turn
-  * Play passes to the next person in clockwise order
+      * Can sell multiple sets per turn
 
 
 ## <a id="game-end"></a>Game End
