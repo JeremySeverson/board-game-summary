@@ -2,7 +2,7 @@
 
 Players: 2-5  |  Play Time: 20 min  |  Ages: 10+
 
-[Game Setup](#game-setup)  |  [Game Turn](#game-turn)  |  [Game End](#game-end)  |  [The Monument Tiles](#the-monument-tiles)  |  [Varieants](#variants)
+[Game Setup](#game-setup)  |  [Game Turn](#game-turn)  |  [Game End](#game-end)  |  [The Monument Tiles](#the-monument-tiles)  |  [Variants](#variants)
 
 
 ## <a id="game-setup"></a>GAME SETUP
